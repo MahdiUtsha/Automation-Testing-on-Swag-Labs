@@ -1,4 +1,4 @@
-# Automation-Testing-on-Swag-Labs
+# Automation-Testing-on-Swag-Labs Website
 An automation testing is done on Swag Labs website to check its some functionalities (e.g. Homepage Details, Login Functionality, Filter Product Functionality, Add to Cart Functionality, Checkout Functionality &amp; Logout Functionality).
 
 ## Features of Swag Labs
