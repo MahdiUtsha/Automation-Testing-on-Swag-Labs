@@ -65,3 +65,10 @@ An automation testing is done on Swag Labs website to check its some functionali
 <img width="928" height="1014" alt="11c" src="https://github.com/user-attachments/assets/ef1d8e18-bc71-42fd-bdb9-97b5f69c8eef" />
 <img width="518" height="208" alt="11d" src="https://github.com/user-attachments/assets/2f938bd3-4cc2-475e-80d5-c1fd2cf6fd01" />
 
+
+## Prerequisites
+
+Make sure you have installed and set up Apache NetBeans, ChromeDriver and Selenium WebDriver on your machine.
+
+- [Install Apache NetBeans](https://netbeans.apache.org/front/main/download/)
+- ChromeDriver and Selenium Webdriver files are also given in this repo.
